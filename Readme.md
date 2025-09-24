@@ -47,9 +47,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IT24100559&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IT24100559&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT24100559&theme=radical" alt="Streak Stats" />
-</p>
-
 ---
