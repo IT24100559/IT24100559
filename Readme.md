@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=darkhub&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=IT24100559&theme=darkhub&row=1&column=6" alt="Trophies" />
   </a>
 </p>
 
@@ -46,12 +46,12 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahansbandara&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IT24100559&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IT24100559&show_icons=true&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahansbandara&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT24100559&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
