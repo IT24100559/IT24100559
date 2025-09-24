@@ -1,5 +1,3 @@
-[![MasterHead](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)](https://github.com/IT24100559)
-
 <h1 align="center">Hi 👋, I'm Sahan Sandaruwan</h1>
 <h3 align="center">🚀 Software Engineering Student | 💻 Freelancer | 📊 Crypto & Forex Enthusiast</h3>
 
